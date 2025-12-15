@@ -16,7 +16,7 @@ else if (input >= 60){
 else if (input >= 50){
 	console.log("D");
 }
-else if (input <= 50){
+else if (input < 50){
 	console.log("F");
 }
 
